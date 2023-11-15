@@ -28,8 +28,8 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-Developed by:ALAGU NACHIYAR K
-Reg no: 212222240006
+Developed by:SURYA R
+Reg no: 212222040167
 # MATH.HTML
 ```
 <!DOCTYPE html>
